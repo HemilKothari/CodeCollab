@@ -29,8 +29,8 @@
   <summary>Server</summary>
   <ul>
     <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="#">Gin Framework</a></li>
-    <li><a href="#">Websockets</a></li>
+    <li><a href="https://gin-gonic.com/">Gin Framework</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,as%20RFC%206455%20in%202011.">Websockets</a></li>
   </ul>
 </details>
 
@@ -94,8 +94,14 @@ go run main.go
 👤 **Rishi_Mishra**
 
 - GitHub: [@githubhandle](https://github.com/Rishi-Mishra0704)
-- Twitter: [@twitterhandle](https://twitter.com/RishiMi31357764)
+- Twitter: [@twitterhandle](https://twitter.com/RishiMi3135776)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rrmishra/)
+
+👤 **Hemil_Kothari**
+
+- GitHub: [@githubhandle](https://github.com/HemilKothari)
+- Twitter: [@twitterhandle](https://twitter.com/kothari_hemil)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hemil-kothari/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
