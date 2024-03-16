@@ -28,7 +28,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="#">Golang</a></li>
+    <li><a href="https://go.dev/">Golang</a></li>
     <li><a href="#">Gin Framework</a></li>
     <li><a href="#">Websockets</a></li>
   </ul>
